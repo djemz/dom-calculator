@@ -14,7 +14,8 @@
     width: 310px;
     height: 50px;
     background-color: beige;
-    font-size: 32px;
+    font-size: 35px;
+    color: indigo;
 }
 
 .container-tombol {
@@ -32,8 +33,9 @@
 .tombol, #reset {
     width: 70px;
     background-color: beige;
-    height: 30px;
+    height: 35px;
     text-align: center;
     padding-top: 10px;
-
+    font-size: 28px;
+    color: indigo;
 }
